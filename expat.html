@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Me Mudo a Vivir a Miña Pontevedra · Guía para Nuevos Residentes</title>
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700;800&family=Caveat:wght@600&display=swap" rel="stylesheet" />
+
+  <!-- Estilos CSS -->
+  <link href="css/main.css" rel="stylesheet" />
+  <link href="css/landing.css" rel="stylesheet" />
+  <link href="css/responsive.css" rel="stylesheet" />
+</head>
+<body class="bg-[#F7F5F0] text-slate-900 min-h-screen">
+
+  <!-- Sticky Nav con selector de modo -->
+  <nav class="sticky-nav">
+    <div class="max-w-6xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <a href="index.html" class="flex items-center gap-2 font-bold text-slate-900 text-lg">
+        <span>🌿</span>
+        <span class="font-title text-xl text-emerald-800">Miña Pontevedra</span>
+      </a>
+
+      <!-- Selector de Modo -->
+      <div class="flex items-center gap-2 bg-slate-100 p-1 rounded-full border border-slate-200 text-xs font-bold">
+        <a href="index.html" class="px-3 py-1.5 rounded-full text-slate-600 hover:text-slate-900">🧳 Voy de visita</a>
+        <a href="expat.html" class="px-3 py-1.5 rounded-full bg-[#3D6B4F] text-white shadow-sm">🏠 Me mudo a vivir</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section Expat -->
+  <section class="hero-banner min-h-[65vh]">
+    <img src="fotos/praza_da_lena.png" alt="Praza da Leña Pontevedra" class="hero-bg-img" />
+    <div class="hero-overlay"></div>
+    <div class="hero-content space-y-4">
+      <span class="inline-block px-3.5 py-1 bg-emerald-800/80 text-emerald-200 text-xs font-bold rounded-full border border-emerald-500/30">GUÍA DE INTEGRACIÓN Y VIVIENDA</span>
+      <h1 class="font-title text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+        Santiago es para peregrinar.<br />Miña Pontevedra es para quedarte a vivir.
+      </h1>
+      <p class="text-sm md:text-base text-slate-200 max-w-xl mx-auto leading-relaxed">
+        Todo lo que necesitas saber para instalarte en la capital europea de la movilidad peatonal: empadronamiento, alquiler, barrios y coste de vida real.
+      </p>
+    </div>
+  </section>
+
+  <!-- Contenido Principal Expat -->
+  <main class="max-w-5xl mx-auto px-4 py-10 space-y-12">
+
+    <!-- 1. El Modelo Peatonal para el Día a Día -->
+    <section class="card-editorial p-6 md:p-8 space-y-4">
+      <div class="flex items-center gap-3">
+        <span class="text-3xl">🚶</span>
+        <h2 class="font-title text-2xl font-bold text-slate-900">Vivir sin Coche: La Revolución del Día a Día</h2>
+      </div>
+      <p class="text-sm text-slate-600 leading-relaxed">
+        El 90% de los desplazamientos diarios en Miña Pontevedra se realizan caminando. Olvídate del seguro del coche, los atascos matutinos, las multas y la búsqueda angustiosa de aparcamiento.
+      </p>
+      <div class="grid md:grid-cols-3 gap-4 pt-2">
+        <div class="p-4 bg-emerald-50 border border-emerald-100 rounded-xl">
+          <h3 class="font-bold text-sm text-emerald-900">Cero Atropellos</h3>
+          <p class="text-xs text-emerald-800 mt-1">Más de 25 años sin fallecidos por tráfico en el núcleo urbano. Los niños juegan libres en la calle.</p>
+        </div>
+        <div class="p-4 bg-emerald-50 border border-emerald-100 rounded-xl">
+          <h3 class="font-bold text-sm text-emerald-900">Ahorro Medio de 250 €/mes</h3>
+          <p class="text-xs text-emerald-800 mt-1">Lo que antes gastabas en gasolina, seguros y mantenimientos lo inviertes en calidad de vida.</p>
+        </div>
+        <div class="p-4 bg-emerald-50 border border-emerald-100 rounded-xl">
+          <h3 class="font-bold text-sm text-emerald-900">Metrominuto Diario</h3>
+          <p class="text-xs text-emerald-800 mt-1">Cualquier punto del centro urbano está a un máximo de 12-15 minutos caminando.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. Papeleo & Empadronamiento (CHECKLIST INTERACTIVA REPARADA) -->
+    <section class="card-editorial p-6 md:p-8 space-y-4">
+      <div class="flex items-center justify-between flex-wrap gap-2">
+        <div class="flex items-center gap-3">
+          <span class="text-3xl">📝</span>
+          <div>
+            <h2 class="font-title text-2xl font-bold text-slate-900">Checklist de Empadronamiento & Trámites</h2>
+            <p class="text-xs text-slate-500">Marca los pasos completados (tu avance se guarda en tu navegador):</p>
+          </div>
+        </div>
+        <span id="checklist-counter" class="text-xs font-mono font-bold px-3 py-1 bg-emerald-100 text-emerald-800 rounded-full">0/4 Pasos</span>
+      </div>
+
+      <div class="space-y-3 pt-2 text-xs md:text-sm">
+
+        <label class="flex items-start gap-3 p-3.5 bg-slate-50 border border-slate-200 rounded-xl cursor-pointer hover:bg-slate-100 transition-colors">
+          <input type="checkbox" onchange="toggleCheckstep(0)" id="chk-0" class="mt-1 w-4 h-4 text-emerald-600 rounded focus:ring-emerald-500" />
+          <div>
+            <span class="font-bold text-slate-900">1. Cita Previa en el Concello de Pontevedra</span>
+            <p class="text-xs text-slate-600 mt-0.5">Solicitar cita de Padrón de Habitantes en la sede electrónica del Concello (Praza de España / Rúa Michelena).</p>
+          </div>
+        </label>
+
+        <label class="flex items-start gap-3 p-3.5 bg-slate-50 border border-slate-200 rounded-xl cursor-pointer hover:bg-slate-100 transition-colors">
+          <input type="checkbox" onchange="toggleCheckstep(1)" id="chk-1" class="mt-1 w-4 h-4 text-emerald-600 rounded focus:ring-emerald-500" />
+          <div>
+            <span class="font-bold text-slate-900">2. Documentación de Vivienda</span>
+            <p class="text-xs text-slate-600 mt-0.5">Llevar contrato de alquiler vigente o nota simple / escritura de la propiedad en Pontevedra.</p>
+          </div>
+        </label>
+
+        <label class="flex items-start gap-3 p-3.5 bg-slate-50 border border-slate-200 rounded-xl cursor-pointer hover:bg-slate-100 transition-colors">
+          <input type="checkbox" onchange="toggleCheckstep(2)" id="chk-2" class="mt-1 w-4 h-4 text-emerald-600 rounded focus:ring-emerald-500" />
+          <div>
+            <span class="font-bold text-slate-900">3. Certificado de Empadronamiento</span>
+            <p class="text-xs text-slate-600 mt-0.5">Obtener el volante o certificado firmado para gestiones sanitarias y escolares.</p>
+          </div>
+        </label>
+
+        <label class="flex items-start gap-3 p-3.5 bg-slate-50 border border-slate-200 rounded-xl cursor-pointer hover:bg-slate-100 transition-colors">
+          <input type="checkbox" onchange="toggleCheckstep(3)" id="chk-3" class="mt-1 w-4 h-4 text-emerald-600 rounded focus:ring-emerald-500" />
+          <div>
+            <span class="font-bold text-slate-900">4. Tarjeta Sanitaria SERGAS</span>
+            <p class="text-xs text-slate-600 mt-0.5">Acudir al centro de salud asignado (Virxe do Camiño o A Parda) para el alta médica en Galicia.</p>
+          </div>
+        </label>
+
+      </div>
+    </section>
+
+    <!-- 3. Alquiler & Guía de Barrios -->
+    <section class="space-y-4">
+      <h2 class="font-title text-2xl font-bold text-slate-900">Guía de Barrios para Alquilar</h2>
+      <div class="grid md:grid-cols-2 gap-6">
+
+        <div class="card-editorial p-6 space-y-2">
+          <span class="px-2.5 py-0.5 bg-amber-100 text-amber-800 text-[10px] font-bold rounded-full">ZONA VELLA & CENTRO HISTÓRICO</span>
+          <h3 class="font-title text-lg font-bold text-slate-900">Zona Vella</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Plazas de granito, animada vida social, terrazas a la puerta de casa y edificios rehabilitados con encanto señorial. Ideal si buscas espíritu cultural y vida urbana.
+          </p>
+        </div>
+
+        <div class="card-editorial p-6 space-y-2">
+          <span class="px-2.5 py-0.5 bg-emerald-100 text-emerald-800 text-[10px] font-bold rounded-full">FAMILIAR & PARQUES</span>
+          <h3 class="font-title text-lg font-bold text-slate-900">Campolongo</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            El gran barrio residencial del centro con el parque del río Gafos, centro deportivo municipal, colegios y supermanzanas peatonales idóneas para familias.
+          </p>
+        </div>
+
+        <div class="card-editorial p-6 space-y-2">
+          <span class="px-2.5 py-0.5 bg-sky-100 text-sky-800 text-[10px] font-bold rounded-full">MODERNO & TREN</span>
+          <h3 class="font-title text-lg font-bold text-slate-900">A Parda</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Área de expansión con edificios de reciente construcción, amplia oferta de servicios, juzgados y la proximidad inmediata a la estación de tren y autobuses.
+          </p>
+        </div>
+
+        <div class="card-editorial p-6 space-y-2">
+          <span class="px-2.5 py-0.5 bg-purple-100 text-purple-800 text-[10px] font-bold rounded-full">UNIVERSIDAD & UNED</span>
+          <h3 class="font-title text-lg font-bold text-slate-900">Monte Porreiro</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Parroquia residencial tranquila a orillas del Lérez, donde se encuentra la sede central de la UNED en Pontevedra y precios de alquiler más reducidos.
+          </p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- 4. Gallego de Supervivencia -->
+    <section class="card-editorial p-6 md:p-8 space-y-4">
+      <div class="flex items-center gap-3">
+        <span class="text-3xl">🗣️</span>
+        <h2 class="font-title text-2xl font-bold text-slate-900">Gallego de Supervivencia para Nuevos Residentes</h2>
+      </div>
+      <p class="text-xs text-slate-600 leading-relaxed">
+        Pontevedra es una ciudad abierta y hospitalaria. Conocer estas expresiones te abrirá las puertas y sonrisas en comercios y tabernas:
+      </p>
+      <div class="grid md:grid-cols-2 gap-4 text-xs">
+        <div class="p-3.5 bg-slate-50 border rounded-xl">
+          <p class="font-bold text-emerald-800">"Unha cunca de viño do país, por favor"</p>
+          <p class="text-slate-600 text-[11px] mt-0.5">Para pedir una taza tradicional de vino blanco en cualquier furancho o taberna.</p>
+        </div>
+        <div class="p-3.5 bg-slate-50 border rounded-xl">
+          <p class="font-bold text-emerald-800">"Pontevedra da boa vila, da boa xente"</p>
+          <p class="text-slate-600 text-[11px] mt-0.5">El dicho popular más querido que sintetiza la amabilidad de sus vecinos.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-slate-900 text-white py-8 border-t border-slate-800">
+    <div class="max-w-5xl mx-auto px-4 text-center text-xs text-slate-400 space-y-2">
+      <p class="font-bold text-slate-200 text-sm">Miña Pontevedra · Guía para Vivir en a Boa Vila</p>
+      <p>Proyecto estático para GitHub Pages. Licencia dual CC0 + MIT.</p>
+    </div>
+  </footer>
+
+  <script>
+    const checkState = JSON.parse(localStorage.getItem('expat_checklist') || '[false, false, false, false]');
+    
+    function initChecklist() {
+      checkState.forEach((val, idx) => {
+        const el = document.getElementById(`chk-${idx}`);
+        if (el) el.checked = val;
+      });
+      updateCounter();
+    }
+
+    function toggleCheckstep(idx) {
+      const el = document.getElementById(`chk-${idx}`);
+      if (el) {
+        checkState[idx] = el.checked;
+        localStorage.setItem('expat_checklist', JSON.stringify(checkState));
+        updateCounter();
+      }
+    }
+
+    function updateCounter() {
+      const count = checkState.filter(Boolean).length;
+      const counterEl = document.getElementById('checklist-counter');
+      if (counterEl) counterEl.textContent = `${count}/4 Pasos Completados`;
+    }
+
+    document.addEventListener('DOMContentLoaded', initChecklist);
+  </script>
+</body>
+</html>

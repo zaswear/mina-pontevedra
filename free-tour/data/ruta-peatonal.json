@@ -1,0 +1,108 @@
+{
+  "id": "peatonal",
+  "titulo": "Pontevedra Peatonal — La ciudad que le quitó las llaves al coche",
+  "subtitulo": "Recorrido por el centro 100% peatonal, plazas medievales y leyendas locales",
+  "duracion": "2 horas",
+  "distancia": "2.5 km",
+  "dificultad": "Fácil (100% accesible)",
+  "paradas": [
+    {
+      "id": 1,
+      "nombre": "La Plaza que el Coche No Conquistó",
+      "lugar": "Plaza de la Herrería (cruzeiro)",
+      "coords": [42.4312, -8.6432],
+      "audiotexto": "Bienvenidos a Pontevedra. Mirad a vuestro alrededor. No hay coches. Ni uno. No es un domingo de pandemia. Es así desde 1999. Esta ciudad fue la primera de España en decirle al coche: 'hasta aquí hemos llegado'. Y el resultado es esto: una plaza medieval donde los niños juegan al fútbol entre el cruzeiro de piedra y las forjas que dieron nombre al lugar. En 2014, la ONU le dio un premio a Pontevedra. Mientras, Madrid seguía ampliando la M-30.",
+      "datoHistorico": "La peatonalización integral del centro histórico de Pontevedra comenzó en agosto de 1999 bajo la alcaldía de Miguel Anxo Fernández Lores. En pocos meses se eliminó el paso de más de 28.000 vehículos diarios que saturaban el casco antiguo. La iniciativa redujo en un 90% las emisiones de CO₂ en el núcleo urbano y convirtió a Pontevedra en un modelo internacional premiado por la ONU (Premio ONU-Habitat 2014 en Dubái), el Premio Intermodes en Bruselas (2013) y el Premio de la UE a la Seguridad Urbana (2020). La ciudad ostenta la cifra récord de más de 25 años continuados sin un solo fallecido por atropello de tráfico en sus calles interiores.",
+      "anecdotaAbsurda": "De esta plaza nació la idea del Metrominuto: un plano esquemático diseñado en Pontevedra con la estética de las líneas de metro de las grandes capitales, pero indicando las distancias a pie y los minutos que se tarda en caminar de un punto a otro. El invento tuvo tal repercusión que ha sido copiado y desplegado oficialmente por ciudades como París, Florencia, Londres, Toulouse, Dublín y hasta Sídney. Lo que los vecinos de Pontevedra ven como un cartel cotidiano en la pared, en facultades de urbanismo de la Universidad de la Sorbona o del MIT de Massachusetts se analiza como caso de estudio revolucionario de movilidad sostenible.",
+      "quiz": {
+        "pregunta": "¿En qué año comenzó la peatonalización del centro histórico de Pontevedra?",
+        "opciones": ["1989", "1999", "2009"],
+        "correcta": 1
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "El Loro que Habló más que los Políticos",
+      "lugar": "Santuario de la Virgen Peregrina (plaza, estatua de Ravachol)",
+      "coords": [42.4308, -8.6441],
+      "audiotexto": "A la derecha, la iglesia con forma de vieira. Pero antes, fijaos en esta estatua. Es un loro. Se llamaba Ravachol. Era la mascota de un farmacéutico del siglo XIX y se hizo tan famoso que hablaba más que los políticos locales. Literalmente: decía vulgaridades, saludaba a la gente, y tenía más carisma que el alcalde. Cuando murió, le hicieron un entierro multitudinario. Y ahora, cada año en carnaval, los pontevedreses vuelven a enterrar al loro.",
+      "datoHistorico": "Ravachol fue un afamado loro de plumaje gris que perteneció al célebre farmacéutico y musicólogo Don Perfecto Feijóo entre 1891 y 1913. Su botica en la Praza da Peregrina era la tertulia más concurrida de la ciudad. Tras la muerte del ave el 26 de enero de 1913, la noticia se publicó en los periódicos locales y la botica recibió miles de visitas de condolencia. Se organizó un velatorio público y un entierro multitudinario con comitiva fúnebre por las calles empedradas, hecho que dio nacimiento a la tradición del 'Enterro do Ravachol', la festividad más carismática y popular que clausura el Carnaval (Entroido) pontevedrés cada febrero.",
+      "anecdotaAbsurda": "Ravachol poseía una capacidad asombrosa para imitar voces humanas y una evidente falta de filtro. Cuentan los historiadores locales que cuando entraba un cliente a la farmacia gritaba con potente voz: '¡Don Perfecto, a la botica que hay gente!'. Pero su especialidad era imitar la voz del cobrador del tranvía gritando '¡Parada!' antes de tiempo para despistar a los viajeros, o soltar frases sarcásticas y poco decorosas al paso de las autoridades municipales y del clero local. Hoy en día, una enorme figura del loro hecha de cartón piedra es quemada ceremonialmente al final del Carnaval mientras toda la ciudad acude vestida de luto riguroso.",
+      "quiz": {
+        "pregunta": "¿De quién era mascota el famoso loro Ravachol?",
+        "opciones": ["De un farmacéutico", "Del alcalde", "De un obispo"],
+        "correcta": 0
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "La Iglesia en Forma de Concha",
+      "lugar": "Santuario de la Virgen Peregrina",
+      "coords": [42.4308, -8.6441],
+      "audiotexto": "Empujad la puerta. No es una iglesia cualquiera. Mirad el suelo. Tiene forma de vieira. Sí, de concha de peregrino. Porque esta es la Virgen Peregrina, patrona de la provincia, y los peregrinos del Camino Portugués pasan por aquí. La fachada es estrecha, casi finge ser una casa normal. Pero dentro... es una joya barroca. Y el pilón de agua bendita es una concha de molusco traída del Pacífico por Méndez Núñez.",
+      "datoHistorico": "Declarado Monumento Histórico-Artístico en 1982, el Santuario da Virxe da Peregrina fue proyectado a partir de 1778 por el arquitecto portugués António de Castro y finalizado en 1792. Su mayor valor reside en su singular diseño arquitectónico: es el único templo religioso de España construido sobre una planta con forma de concha de vieira (símbolo jacobeo por excelencia), inscrita dentro de un trazado en cruz. Su fachada convexa mezcla elementos del barroco tardío y del neoclásico, flanqueada por dos imponentes torres de campanas de piedra de granito gallego.",
+      "anecdotaAbsurda": "El pilón de agua bendita situado en el atrio del templo es una inmensa concha real de molusco gigante (Tridacna gigas) traída en el siglo XIX desde las aguas del Océano Pacífico por el célebre almirante pontevedrés Casto Méndez Núñez a bordo de la fragata Almansa. Asimismo, entre los caminantes del Camino Portugués a Santiago se mantiene la viva creencia popular de que al frotar la vieira de piedra esculpida en la fachada exterior, el peregrino obtiene un alivio milagroso para las ampolla y dolores de pies antes de recorrer los últimos 60 kilómetros hacia la tumba del Apóstol.",
+      "quiz": {
+        "pregunta": "¿Qué forma singular tiene la planta del Santuario da Peregrina?",
+        "opciones": ["Cruz latina", "Concha de vieira", "Hexágono"],
+        "correcta": 1
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Las Tres Plazas que Son Una",
+      "lugar": "Plaza de la Herrería / Plaza de la Verdura / Plaza de la Leña",
+      "coords": [42.4331, -8.6440],
+      "audiotexto": "Caminad conmigo. Cruzáis un arco... y estáis en otra plaza. Cruzáis otro... y otra más. Pontevedra es un laberinto de plazas que se besan entre sí. La Herrería, con sus forjas. La Verdura, donde vendían hortalizas. La Leña, presidida por el cruceiro. Son tres plazas que parecen una sola sala de estar gigante sin un solo coche.",
+      "datoHistorico": "El trazado urbano medieval de Pontevedra se consolidó a partir del siglo XIV organizando el espacio público según las corporaciones y gremios profesionales. La Praza da Ferrería albergaba las fraguas y talleres de los herreros que fabricaban aperos y armas; a Praza da Verdura funcionaba como mercado de hortalizas y productos agrícolas de las parroquias rústicas; y a Praza da Leña concentraba la venta de madera para las cocinas y hogares del casco antiguo. El emblemático cruceiro de piedra de granito del siglo XV situado en el centro de a Leña fue instalado allí por la Sociedad Arqueológica de Pontevedra a comienzos del siglo XX.",
+      "anecdotaAbsurda": "La Praza da Leña es considerada por directores de cine y fotógrafos internacionales como uno de los encuadres urbanos más románticos y fotogénicos del norte de la Península Ibérica. Debido a la continuidad entre los soportales de arcos de granito de las tres plazas, los vecinos suelen decir que Pontevedra cuenta con 'el salón de estar al aire libre más grande de Europa'. En a Praza da Verdura perdura la arraigada costumbre galleguísima de pedir una 'cunca' de vino blanco do país en las terrazas, recibiendo siempre un pincho casero de cortesía de empanada de chocos o tortilla recién hecha.",
+      "quiz": {
+        "pregunta": "¿Qué elemento histórico preside el centro de la Plaza de la Leña?",
+        "opciones": ["Una estatua de bronce", "Un cruceiro de piedra", "Un reloj solar"],
+        "correcta": 1
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "El Mercado donde el Marisco Es Realeza",
+      "lugar": "Mercado de Abastos",
+      "coords": [42.4348, -8.6445],
+      "audiotexto": "Abran la nariz. Eso es mar fresco. Este mercado fue diseñado por César Portela. Abajo compráis percebes, zamburiñas o pulpo recién traído de la ría. Arriba, en la planta superior, hay cocinas: compráis el marisco, subís las escaleras, y os lo cocinan al momento.",
+      "datoHistorico": "El histórico Mercado de Abastos de Pontevedra, levantado a orillas del río Lérez, fue profundamente reformado en 2003 según el proyecto del ilustre arquitecto pontevedrés César Portela (Premio Nacional de Arquitectura). El edificio combina sobria cantería de granito atlántico con una majestuosa estructura acristalada que inunda de luz los más de 200 puestos de venta. En la planta baja se despachan los mejores pescados y mariscos capturados de madrugada en las Rías Baixas, mientras que la primera planta se convirtió en un referente gastrocultural con puestos de cocina en directo.",
+      "anecdotaAbsurda": "El sistema gastronómico del Mercado de Abastos de Pontevedra es uno de los secretos mejor guardados de la cocina atlántica: cualquier visitante o vecino puede comprar a primera hora en la planta baja percebes vivos, zamburiñas, navajas o chocos directamente a las mariscadoras y marineros; a continuación, sube las escaleras a los gastrobares de la planta superior, donde los cocineros preparan las piezas a la plancha o al vapor en el acto por una modesta tarifa de elaboración. Es la forma más directa, fresca y económica de degustar el auténtico marisco gallego sin intermediarios.",
+      "quiz": {
+        "pregunta": "¿Qué arquitecto gallego diseñó la reforma del Mercado de Abastos de Pontevedra?",
+        "opciones": ["César Portela", "Santiago Calatrava", "Norman Foster"],
+        "correcta": 0
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "El Río que Le Dio Nombre a la Ciudad",
+      "lugar": "Puente del Burgo, río Lérez",
+      "coords": [42.4358, -8.6450],
+      "audiotexto": "Este puente es del siglo XII. Cruza el río Lérez y es la razón de que esta ciudad exista. Los romanos ya tenían un puente aquí, llamado Pontis Veteris. 'Puente viejo'. Con los siglos, eso se convirtió en... Pontevedra. Esta ciudad es, literalmente, un puente.",
+      "datoHistorico": "El Ponte do Burgo es una obra maestra de la ingeniería medieval levantada en el siglo XII sobre los cimientos del antiguo puente romano que permitía el trazado de la Vía XIX del Itinerario de Antonino (siglo I d.C.), la gran calzada imperial que conectaba Bracara Augusta (Braga) con Asturica Augusta (Astorga). Compuesto por 11 arcos de medio punto de cantería de granito, constituye el paso oficial del Camino de Santiago Portugués sobre el río Lérez. El nombre oficial de la ciudad procede directamente del latín 'Pontis Veteris' ('puente viejo'), derivando a través de los siglos en Pontevedra.",
+      "anecdotaAbsurda": "Durante los trabajos de restauración y excavación arqueológica realizados bajo los arcos del puente en 1992 y 2019, se descubrieron en el lecho del río docenas de monedas romanas de bronce pertenecientes a las épocas de los emperadores Augusto y Tiberio, junto a útiles de cerámica hispanorromana. La leyenda tradicional sostiene que los legionarios y comerciantes romanos arrojaban monedas al cauce del Lérez antes de cruzar la pasarela como ofrenda votiva a las ninfas fluviales para solicitar protección frente a las riadas y tempestades del Atlántico.",
+      "quiz": {
+        "pregunta": "¿De qué término en latín deriva el nombre de Pontevedra?",
+        "opciones": ["Ponte Nova", "Pontis Veteris", "Portus Vetus"],
+        "correcta": 1
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "El Paseo donde Nació un Nobel (casi)",
+      "lugar": "Alameda de Pontevedra / Jardines de Vincenti",
+      "coords": [42.4310, -8.6475],
+      "audiotexto": "Terminamos donde todo empieza y acaba en Pontevedra: la Alameda. Este paseo arbolado junto al Lérez es el pulmón de la ciudad. Aquí nacieron las ideas de Valle-Inclán, el escritor más grande de Galicia, que respiró este aire toda su vida. Sentaos en un banco. Mirad pasar a la gente. Y preguntadnos: ¿dónde están los coches? Exacto. No los echarás de menos.",
+      "datoHistorico": "Trazada a mediados del siglo XIX sobre los antiguos terrenos del convento de Santo Domingo y el glacis de la muralla defensiva, la Alameda de Pontevedra y los anexos Jardines de Vincenti conforman el gran parque señorial del ensanche. Destaca por sus bulevares arbolados de eucaliptos monumentales, palmeras atlánticas, el café histórico y el quiosco de música de fundición. Durante su juventud y madurez, el inmortal dramaturgo y novelista Ramón María del Valle-Inclán residió en Pontevedra e hizo de este paseo el centro neustro de sus tertulias literarias y paseos inspiradores.",
+      "anecdotaAbsurda": "Cuentan las crónicas de la época que Valle-Inclán paseaba por las avenidas de la Alameda envuelto en su característica capa gallega, con sus largas barbas de felino y su sombrero negro, discutiendo acaloradamente con los profesores del instituto local sosteniendo que 'el brío del aire salino que entra desde la ría hasta la Alameda de Pontevedra inspira más literatura que todos los salones de Madrid juntos'. En el quiosco central de música toca los domingos la Banda Municipal de Pontevedra, interpretando pasodobles y alboradas gallegas que congregan a varias generaciones de vecinos en un ambiente nostálgico e idílico.",
+      "quiz": {
+        "pregunta": "¿Qué célebre escritor gallego frecuentaba la Alameda de Pontevedra?",
+        "opciones": ["Rosalía de Castro", "Valle-Inclán", "Camilo José Cela"],
+        "correcta": 1
+      }
+    }
+  ]
+}

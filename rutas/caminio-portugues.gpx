@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Miña Pontevedra" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Camino Portugués Urbano</name>
+    <desc>Travesía del Camino de Santiago por el casco histórico de Pontevedra</desc>
+  </metadata>
+  <trk>
+    <name>Camino Portugués Urbano</name>
+    <trkseg>
+      <trkpt lat="42.4250" lon="-8.6430"><ele>18</ele></trkpt>
+      <trkpt lat="42.4285" lon="-8.6440"><ele>15</ele></trkpt>
+      <trkpt lat="42.4308" lon="-8.6441"><ele>14</ele></trkpt>
+      <trkpt lat="42.4312" lon="-8.6432"><ele>13</ele></trkpt>
+      <trkpt lat="42.4331" lon="-8.6440"><ele>12</ele></trkpt>
+      <trkpt lat="42.4348" lon="-8.6445"><ele>8</ele></trkpt>
+      <trkpt lat="42.4358" lon="-8.6450"><ele>5</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

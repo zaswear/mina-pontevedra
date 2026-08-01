@@ -1,0 +1,94 @@
+{
+  "id": "piedra",
+  "titulo": "Piedra, Albariño y Rías",
+  "subtitulo": "Ruta monumental, arquitectura señorial y degustación del Atlántico",
+  "duracion": "3 horas",
+  "distancia": "4.0 km",
+  "dificultad": "Fácil",
+  "paradas": [
+    {
+      "id": 1,
+      "nombre": "El Gótico Mareante de Santa María",
+      "lugar": "Basílica de Santa María a Maior",
+      "coords": [42.4332, -8.6469],
+      "audiotexto": "Esta basílica no la financiaron reyes ni obispos ricos. La pagaron los marineros del Gremio de Mareantes de Pontevedra en el siglo XVI. Por eso verás tallados en el granito cuerdas de barcos, anclas, peces y hasta la carabela Santa María.",
+      "datoHistorico": "Declarada Basílica Menor por el Papa Pío XII y Monumento Histórico-Artístico en 1931, Santa María a Maior es considerada la cumbre indiscutible del gótico plateresco en Galicia. Construida a lo largo del siglo XVI, el templo fue costeado íntegramente por los marineros, armadores y comerciantes agrupados en el todopoderoso Gremio de Mareantes del barrio marinero de A Moureira. Su majestuosa fachada oeste, obra del maestro Cornelis de Holanda y Juan de Nobre, funciona como un retablo gigante labrado en piedra de granito con relieves del Juicio Final, la Dormición de la Virgen y escudos gremiales.",
+      "anecdotaAbsurda": "En el retablo labrado en piedra de la fachada principal existe un curioso detalle histórico que sorprende a los visitantes: entre las figuras de los santos y doctores de la Iglesia esculpidos en el siglo XVI, el maestro cantero representó a San Jerónimo luciendo unas gafas de piedra talladas sobre su rostro, convirtiéndose en una de las representaciones artísticas más antiguas de lentes de visión en la arquitectura española. Además, en los contrafuertes laterales se aprecian bajorrelieves de carabelas, cuerdas de amarre y sirenas sosteniendo peces.",
+      "quiz": {
+        "pregunta": "¿Quién financió la construcción de la Basílica de Santa María?",
+        "opciones": ["El Gremio de Mareantes", "El Rey Felipe II", "Los monjes franciscanos"],
+        "correcta": 0
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "La Leyenda del Convento de San Francisco",
+      "lugar": "Convento de San Francisco",
+      "coords": [42.4312, -8.6432],
+      "audiotexto": "Cuenta la tradición que este convento fue fundado por el mismísimo San Francisco de Asís durante su peregrinación a Santiago de Compostela en el siglo XIII. La luz que entra por sus rosetones sobre la piedra de granito es única.",
+      "datoHistorico": "Declarado Monumento Histórico-Artístico, la iglesia y convento de San Francisco data del siglo XIV (construido entre 1310 y 1360) sobre una fundación románica anterior atribuida por la tradición a San Francisco de Asís durante su romería jacobea a Santiago en 1214. De estilo gótico mendicante, destaca su cabecera con tres ábsides poligonales de piedra e imponentes ventanales ojivales. En su transepto reposa el sepulcro de Paio Gómez Chariño, célebre trovador en lengua gallega y Almirante Mayor de la Corona de Castilla que participó decisivamente en la reconquista de Sevilla en 1248.",
+      "anecdotaAbsurda": "Paio Gómez Chariño fue una de las figuras más fascinantes del medievo atlántico: caballero, señor de Rianxo, comandante naval de las naves pontevedresas y poeta de 'cantigas de amigo'. En sus poemas medievales expresaba la morriña por las aguas de la ría de Pontevedra mientras capitaneaba barcos en el Guadalquivir. Su sepulcro gótico de granito en el templo de San Francisco lo muestra esculpido con armadura completa de caballero y espada, custodiado por estatuas de yacentes y leones.",
+      "quiz": {
+        "pregunta": "¿Qué figura histórica reposa en el Convento de San Francisco?",
+        "opciones": ["Valle-Inclán", "Paio Gómez Chariño", "Méndez Núñez"],
+        "correcta": 1
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Las Ruinas Románticas de Santo Domingo",
+      "lugar": "Ruínas de Santo Domingo",
+      "coords": [42.4305, -8.6455],
+      "audiotexto": "Restos del convento dominico del siglo XIV. Estuvo a punto de ser demolido en el siglo XIX, pero la sociedad pontevedresa se declaró en rebeldía para salvar los ábsides góticos de piedra.",
+      "datoHistorico": "Declaradas Monumento Nacional en 1895, las Ruínas de Santo Domingo conservan la cabecera gótica del siglo XIV compuesta por cinco ábsides poligonales con bellísimos ventanales de tracería calada y el muro del transepto. Tras la desamortización de Mendizábal en 1836, el edificio fue abandonado y utilizado como cantera pública. Cuando las autoridades municipales intentaron derribar los restos en 1886 para construir un cuartel militar, ilustres pontevedreses como Casto Sampedro se movilizaron fundando la Sociedad Arqueológica de Pontevedra para salvar el monumento, dando origen al Museo de Pontevedra.",
+      "anecdotaAbsurda": "Las ruinas al aire libre de Santo Domingo con sus ábsides cubiertos de hiedra verde entre el granito desgastado por la lluvia constituyen el escenario romántico por excelencia del norte peninsular. En su interior se conserva una impresionante colección de sarcófagos góticos y renacentistas, lápidas gremiales de mareantes y escudos nobiliarios de las grandes familias pontevedresas. Cuentan los cronistas que los ilustrados victoriosos que salvaron las ruinas en 1895 hacían guardia nocturna ante los muros para impedir que los obreros municipales colocaran cargas de dinamita.",
+      "quiz": {
+        "pregunta": "¿De qué siglo datan los ábsides góticos de las Ruínas de Santo Domingo?",
+        "opciones": ["Siglo X", "Siglo XIV", "Siglo XVIII"],
+        "correcta": 1
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "El Gran Tesoro del Museo de Pontevedra",
+      "lugar": "Edificio Castelao (Museo de Pontevedra)",
+      "coords": [42.4331, -8.6440],
+      "audiotexto": "El Museo de Pontevedra cuenta con 6 sedes en la ciudad. El Edificio Castelao guarda desde el Tesoro de Caldas (joyas de oro prehistóricas de 1.500 a.C.) hasta la colección original de Castelao.",
+      "datoHistorico": "Fundado en 1927 por la Diputación y la Sociedad Arqueológica, el Museo de Pontevedra está considerado uno de los centros museísticos provinciales más ricos e importantes de España. Repartido en 6 edificios históricos del centro (Ruínas de Santo Domingo, Edificio Castro Monteagudo, Edificio García Flórez, Edificio Fernández López, Pazo de Mugartegui y el moderno Edificio Castelao inaugurado en 2013). Alberga joyas únicas de la prehistoria europea como el Tesoro de Caldas de Reis (14,9 kg de oro puro del Bronce Final, ca. 1500 a.C.), orfebrería galarica y la mayor colección de pintura gallega e ilustraciones originales de Alfonso Daniel Rodríguez Castelao.",
+      "anecdotaAbsurda": "El famoso Tesoro de Caldas de Reis fue descubierto casualmente el 20 de diciembre de 1940 por un agricultor que araba una viña en la parroquia de Cordeiro. Al desenterrar una gran jarra de bronce que se rompió con el arado, aparecieron peines, brazaletes, anillos y tiras de oro macizo prehistórico. El hallazgo sumó casi 15 kilos de oro puro de 3.500 años de antigüedad. El Museo de Pontevedra logró adquirir la colección completa para evitar su dispersión, exhibiéndola hoy en salas blindadas con la máxima seguridad.",
+      "quiz": {
+        "pregunta": "¿Cuántas sedes componen el Museo de Pontevedra en la ciudad?",
+        "opciones": ["2 sedes", "6 sedes", "10 sedes"],
+        "correcta": 1
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "Combarro: Hórreos sobre la Mar",
+      "lugar": "Combarro (A 10 min de Pontevedra)",
+      "coords": [42.4300, -8.7000],
+      "audiotexto": "A solo 10 minutos de la ciudad está Combarro, la aldea pesquera donde los hórreos y cruceiros de piedra tocan directamente el agua de la ría cuando sube la marea.",
+      "datoHistorico": "Declarado Conjunto Histórico-Artístico en 1972, el pueblo marinero de Combarro (situado a 6 km de Pontevedra en el municipio de Poio) ofrece la mayor y más singular concentración de hórreos y cruceiros costeros de toda la Península Ibérica. Construido directamente sobre la piedra de granito que emerge de la Ría de Pontevedra, conserva más de 60 hórreos tradicionales (30 de ellos alineados en la línea de costa con sus pies sumergidos por la marea alta) que servían históricamente para almacenar maíz, patatas y secar pescado salado.",
+      "anecdotaAbsurda": "Una de las particularidades más hermosas y devocionales de Combarro se encuentra en sus siete cruceiros de granito repartidos por los callejones marineros: en todos ellos, la figura esculpida de la Virgen María está orientada invariablemente mirando hacia las aguas de la ría para bendecir a los marineros que salían a faenar, mientras que la imagen de Cristo Crucificado mira hacia la tierra firme. Durante las pleamares de primavera, el agua del mar alcanza la base de piedra de los hórreos creando una estampa mágica reflejada en el Atlántico.",
+      "quiz": {
+        "pregunta": "¿Hacia dónde mira siempre la Virgen de los cruceiros de Combarro?",
+        "opciones": ["Hacia la montaña", "Hacia el mar", "Hacia la iglesia"],
+        "correcta": 1
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "Cambados y la Cuna del Albariño",
+      "lugar": "Cambados (Val do Salnés)",
+      "coords": [42.5150, -8.8150],
+      "audiotexto": "Pontevedra está flanqueada por la denominación de origen Rías Baixas. A 15 minutos en Cambados se elabora el Albariño, considerado el rey de los vinos blancos de España.",
+      "datoHistorico": "Ubicada en el corazón de la comarca del Val do Salnés (a 15 km de Pontevedra), Cambados fue declarada Ciudad Europea del Vino en 2017 y Conjunto Histórico-Artístico. Es la capital histórica indiscutible del vino Albariño bajo la Denominación de Origen Rías Baixas. Su núcleo señorial pivota sobre la monumental Praza de Fefiñáns (siglo XVI), flanqueada por el imponente Pazo de Fefiñáns (primera bodega documentada que embotelló Albariño de marca registrada en 1928) y la iglesia de San Benito.",
+      "anecdotaAbsurda": "La leyenda vinícola tradicional cuenta que las primeras cepera o esquejes de la uva Albariño fueron traídas a Galicia en el siglo XII por los monjes cistercienses de la abadía de Cluny durante sus peregrinaciones por el Camino de Santiago, plantándolas en las laderas atlánticas del Salnés donde el clima húmedo y el suelo de granito dieron lugar al célebre vino blanco aromático de tonos dorados. Cada primer fin de semana de agosto se celebra en Cambados la Fiesta del Albariño, la festividad vinícola más antigua de Galicia.",
+      "quiz": {
+        "pregunta": "¿Qué variedad de uva reina en la D.O. Rías Baixas al lado de Pontevedra?",
+        "opciones": ["Tempranillo", "Albariño", "Mencía"],
+        "correcta": 1
+      }
+    }
+  ]
+}

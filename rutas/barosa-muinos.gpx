@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Miña Pontevedra" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Cascadas de A Barosa</name>
+    <desc>Sendero de los molinos de agua hidráulicos de Barro/Pontevedra</desc>
+  </metadata>
+  <trk>
+    <name>Cascadas de A Barosa</name>
+    <trkseg>
+      <trkpt lat="42.5200" lon="-8.6330"><ele>45</ele></trkpt>
+      <trkpt lat="42.5210" lon="-8.6320"><ele>60</ele></trkpt>
+      <trkpt lat="42.5225" lon="-8.6305"><ele>85</ele></trkpt>
+      <trkpt lat="42.5238" lon="-8.6290"><ele>110</ele></trkpt>
+      <trkpt lat="42.5245" lon="-8.6310"><ele>90</ele></trkpt>
+      <trkpt lat="42.5215" lon="-8.6335"><ele>50</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

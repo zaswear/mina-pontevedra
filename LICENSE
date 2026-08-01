@@ -1,0 +1,45 @@
+LICENCIA DUAL: CREATIVE COMMONS CC0 1.0 UNIVERSAL + LICENCIA MIT / EUPL-1.2
+
+===============================================================================
+PARTE 1: LICENCIA DE CONTENIDOS Y DATOS (CC0 1.0 UNIVERSAL - DOMINIO PÚBLICO)
+===============================================================================
+
+Los textos culturales, datos de los archivos JSON (/maps/puntos.json, /rutas/index.json,
+/fotos/gallery.json) y contenidos descriptivos del proyecto "Miña Pontevedra" están
+dedicados al dominio público universal bajo la licencia Creative Commons CC0 1.0.
+
+Declaración de Propósito:
+La persona que asocia este documento con la obra (el "Afirmante") renuncia de forma
+voluntaria e irrevocable a todos sus derechos de autor y derechos conexos sobre la obra
+en todo el mundo, permitiendo que cualquiera pueda reproducir, modificar, distribuir,
+explotar comercialmente y reutilizar estos datos sin necesidad de permiso previo.
+
+Exención de Responsabilidad:
+Los datos geográficos y culturales se ofrecen "TAL CUAL", sin garantías de ningún tipo,
+expresas o implícitas. El Afirmante no asume responsabilidad alguna sobre la precisión
+o uso que terceros hagan de esta información.
+
+===============================================================================
+PARTE 2: LICENCIA DEL CÓDIGO FUENTE (MIT / EUPL-1.2)
+===============================================================================
+
+El código fuente de la aplicación web (HTML5, CSS3, JavaScript Vanilla y scripts de apoyo)
+se distribuye bajo la Licencia MIT (compatible con la European Union Public Licence EUPL-1.2).
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

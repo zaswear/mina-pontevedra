@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Miña Pontevedra" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Senda Fluvial do Lérez</name>
+    <desc>Ruta verde a orillas del río Lérez en Pontevedra</desc>
+  </metadata>
+  <trk>
+    <name>Senda Fluvial do Lérez</name>
+    <trkseg>
+      <trkpt lat="42.4358" lon="-8.6450"><ele>5</ele></trkpt>
+      <trkpt lat="42.4372" lon="-8.6368"><ele>7</ele></trkpt>
+      <trkpt lat="42.4410" lon="-8.6350"><ele>10</ele></trkpt>
+      <trkpt lat="42.4435" lon="-8.6300"><ele>12</ele></trkpt>
+      <trkpt lat="42.4460" lon="-8.6250"><ele>15</ele></trkpt>
+      <trkpt lat="42.4480" lon="-8.6180"><ele>18</ele></trkpt>
+      <trkpt lat="42.4505" lon="-8.6120"><ele>22</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titulo": "Santuario da Virxe da Peregrina",
+    "categoria": "Monumentos",
+    "fecha": "2026-05-10",
+    "descripcion": "Fachada barroco-neoclásica del siglo XVIII construida sobre una planta en forma de concha de vieira, símbolo del Camino Portugués.",
+    "url": "fotos/peregrina_church.png",
+    "credito": "Fotografía Oficial · Miña Pontevedra"
+  },
+  {
+    "id": 2,
+    "titulo": "Praza da Leña e Cruceiro",
+    "fecha": "2026-05-12",
+    "categoria": "Plazas",
+    "descripcion": "El rincón más fotogénico del casco histórico con su típico cruceiro de piedra de granito y pazos señoriales del Museo de Pontevedra.",
+    "url": "fotos/praza_da_lena.png",
+    "credito": "Fotografía Oficial · Miña Pontevedra"
+  },
+  {
+    "id": 3,
+    "titulo": "Basílica de Santa María a Maior",
+    "fecha": "2026-05-18",
+    "categoria": "Monumentos",
+    "descripcion": "Joya del plateresco gallego del siglo XVI, construida a iniciativa del célebre Gremio de Mareantes de la villa.",
+    "url": "fotos/basilica_santa_maria.png",
+    "credito": "Fotografía Oficial · Miña Pontevedra"
+  },
+  {
+    "id": 4,
+    "titulo": "Ponte do Burgo sobre o Río Lérez",
+    "fecha": "2026-06-01",
+    "categoria": "Río Lérez",
+    "descripcion": "Histórico puente peatonal de arcos de piedra por donde transcurre la travesía oficial del Camino Portugués de Santiago.",
+    "url": "fotos/ponte_do_burgo.png",
+    "credito": "Fotografía Oficial · Miña Pontevedra"
+  },
+  {
+    "id": 5,
+    "titulo": "Praza de Abastos de Pontevedra",
+    "fecha": "2026-06-08",
+    "categoria": "Gastronomía",
+    "descripcion": "El mayor mercado municipal a orillas del Lérez, donde comprar marisco fresco directo de las mariscadoras en la planta baja.",
+    "url": "fotos/praza_de_abastos.png",
+    "credito": "Fotografía Oficial · Miña Pontevedra"
+  },
+  {
+    "id": 6,
+    "titulo": "Illa das Sculpturas (Arte Fluvial)",
+    "fecha": "2026-06-15",
+    "categoria": "Río Lérez",
+    "descripcion": "Isla de 70.000 m² a orillas del Lérez con obras en cantería de granito integradas en la naturaleza de artistas internacionales.",
+    "url": "fotos/illa_das_sculpturas.png",
+    "credito": "Fotografía Oficial · Miña Pontevedra"
+  },
+  {
+    "id": 7,
+    "titulo": "Estatua do Loro Ravachol",
+    "fecha": "2026-06-20",
+    "categoria": "Plazas",
+    "descripcion": "Monumento de bronce dedicado al loro botecario de Don Perfecto Feijoo en la Praza da Peregrina, icono del Entroido.",
+    "url": "fotos/loro_ravachol.png",
+    "credito": "Fotografía Oficial · Miña Pontevedra"
+  },
+  {
+    "id": 8,
+    "titulo": "Chocos en su tinta e Marisco",
+    "fecha": "2026-07-02",
+    "categoria": "Gastronomía",
+    "descripcion": "Plato gastronómico estrella de Pontevedra preparado con chocos de la ría en su tinta y guarnición de arroz o cachelos.",
+    "url": "fotos/chocos_en_su_tinta.png",
+    "credito": "Fotografía Oficial · Miña Pontevedra"
+  }
+]

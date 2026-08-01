@@ -1,0 +1,19 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   MINA PONTEVEDRA · RESPONSIVE CSS
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@media (max-width: 768px) {
+  .hero-banner {
+    min-height: 75vh;
+  }
+
+  .comparativa-table th, .comparativa-table td {
+    padding: 0.75rem 0.875rem;
+    font-size: 0.825rem;
+  }
+
+  .trust-bar {
+    gap: 0.75rem;
+    font-size: 0.75rem;
+  }
+}

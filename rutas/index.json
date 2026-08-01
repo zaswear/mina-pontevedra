@@ -1,0 +1,35 @@
+[
+  {
+    "nombre": "Senda Fluvial do Lérez",
+    "archivo": "senda-do-lerez.gpx",
+    "emoji": "🌿",
+    "distancia": "12 km ida y vuelta",
+    "duracion": "~2h 30min",
+    "dificultad": "Fácil",
+    "momento": "Ideal en mañanas o tardes de primavera y otoño",
+    "descripcion": "Ruta llana y sombreada que discurre paralela al cauce del río Lérez desde el centro de la ciudad hasta los antiguos molinos y la presa de Bora.",
+    "destino_coords": [42.4415, -8.6275]
+  },
+  {
+    "nombre": "Camino Portugués Urbano (Pontevedra)",
+    "archivo": "caminio-portugues.gpx",
+    "emoji": "🥾",
+    "distancia": "4,5 km (Tramo urbano)",
+    "duracion": "~1h",
+    "dificultad": "Muy Fácil",
+    "momento": "Cualquier momento del día",
+    "descripcion": "Travesía del Camino de Santiago entrando por la Gorgullosa, pasando por el Santuario da Peregrina, las plazas del casco viejo y cruzando el Ponte do Burgo.",
+    "destino_coords": [42.4358, -8.6450]
+  },
+  {
+    "nombre": "Ruta das Cascadas de A Barosa",
+    "archivo": "barosa-muinos.gpx",
+    "emoji": "🌊",
+    "distancia": "6 km circular",
+    "duracion": "~1h 45min",
+    "dificultad": "Moderada",
+    "momento": "Recomendado tras días de lluvia para ver los saltos de agua",
+    "descripcion": "Excursión a solo 10 minutos de Pontevedra (Barro) para contemplar la impresionante cascada natural del río Barosa y su conjunto de 17 molinos de agua hidráulicos.",
+    "destino_coords": [42.5210, -8.6320]
+  }
+]

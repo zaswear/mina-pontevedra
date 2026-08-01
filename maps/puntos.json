@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "Santuario da Virxe da Peregrina",
+    "tipo": "Imprescindible",
+    "descripcion": "Símbolo de Pontevedra y del Camino Portugués. Iglesia del siglo XVIII construida sobre una planta con forma de concha de vieira.",
+    "coordenadas": [42.4308, -8.6441],
+    "nota": "⭐ 5/5 · Praza da Peregrina",
+    "color": "orange",
+    "google_maps_url": "https://maps.google.com/?q=42.4308,-8.6441",
+    "resena_propia": true
+  },
+  {
+    "nombre": "Praza da Leña",
+    "tipo": "Imprescindible",
+    "descripcion": "La plaza más fotogénica del casco histórico, presidida por un típico cruceiro galego de piedra y rodeada de pazos del Museo de Pontevedra.",
+    "coordenadas": [42.4331, -8.6440],
+    "nota": "⭐ 5/5 · Corazón del Casco Vello",
+    "color": "orange",
+    "google_maps_url": "https://maps.google.com/?q=42.4331,-8.6440",
+    "resena_propia": true
+  },
+  {
+    "nombre": "Basílica de Santa María a Maior",
+    "tipo": "Imprescindible",
+    "descripcion": "Joya del gótico plateresco del siglo XVI financiada por el gremio de mareantes y marineros de la villa.",
+    "coordenadas": [42.4332, -8.6469],
+    "nota": "⭐ 5/5 · Barrio da Moureira",
+    "color": "orange",
+    "google_maps_url": "https://maps.google.com/?q=42.4332,-8.6469",
+    "resena_propia": true
+  },
+  {
+    "nombre": "Praza da Verdura",
+    "tipo": "Recomendado",
+    "descripcion": "Epicentro del tapeo pontevedrés. Terrazas ambientadas bajo soportales donde antiguamente se vendían hortalizas de las aldeas.",
+    "coordenadas": [42.4326, -8.6450],
+    "nota": "🍺 Excelente atmósfera para cañas y tapas",
+    "color": "green",
+    "google_maps_url": "https://maps.google.com/?q=42.4326,-8.6450",
+    "resena_propia": true
+  },
+  {
+    "nombre": "Praza de Abastos (Mercado Municipal)",
+    "tipo": "Recomendado",
+    "descripcion": "El gran templo gastronómico a orillas del Lérez. Compra marisco fresco en la planta baja y pídelo preparado en el piso de arriba.",
+    "coordenadas": [42.4348, -8.6445],
+    "nota": "🦞 Del Mercado a la Mesa",
+    "color": "green",
+    "google_maps_url": "https://maps.google.com/?q=42.4348,-8.6445",
+    "resena_propia": true
+  },
+  {
+    "nombre": "Praza do Teucro",
+    "tipo": "Recomendado",
+    "descripcion": "Plaza señorial rodeada de escudos nobiliarios esculpidos en granito. Ideal para un café tranquilo por las tardes.",
+    "coordenadas": [42.4320, -8.6458],
+    "nota": "☕ Gran ambiente tranquilo",
+    "color": "green",
+    "google_maps_url": "https://maps.google.com/?q=42.4320,-8.6458",
+    "resena_propia": true
+  },
+  {
+    "nombre": "Illa das Sculpturas (Illa do Lérez)",
+    "tipo": "Parque",
+    "descripcion": "Isla fluvial y el mayor espacio de arte contemporáneo al aire libre de Galicia, con obras integradas en la naturaleza de artistas internacionales.",
+    "coordenadas": [42.4410, -8.6350],
+    "nota": "🌳 70.000 m² de verde y arte",
+    "color": "blue",
+    "google_maps_url": "https://maps.google.com/?q=42.4410,-8.6350",
+    "resena_propia": true
+  },
+  {
+    "nombre": "Ponte do Burgo",
+    "tipo": "Imprescindible",
+    "descripcion": "Puente peatonal de origen romano remodelado en la Edad Media. Paso oficial de los peregrinos que caminan hacia Santiago de Compostela.",
+    "coordenadas": [42.4358, -8.6450],
+    "nota": "🚶 Vía del Camino Portugués",
+    "color": "orange",
+    "google_maps_url": "https://maps.google.com/?q=42.4358,-8.6450",
+    "resena_propia": true
+  },
+  {
+    "nombre": "Parque de Campolongo y Río Gafos",
+    "tipo": "Parque",
+    "descripcion": "Paseo natural que sigue el curso destapado del río Gafos a su paso por el parque central del barrio de Campolongo.",
+    "coordenadas": [42.4265, -8.6455],
+    "nota": "🌿 Paseo fluvial urbano",
+    "color": "blue",
+    "google_maps_url": "https://maps.google.com/?q=42.4265,-8.6455",
+    "resena_propia": true
+  },
+  {
+    "nombre": "Furancho O Outeiro (Salcedo)",
+    "tipo": "Recomendado",
+    "descripcion": "Auténtico furancho gallego en la parroquia rural de Salcedo. Vino blanco del país en taza de loza y empanada de choquiños casera.",
+    "coordenadas": [42.4150, -8.6380],
+    "nota": "🍷 Furancho tradicional de temporada",
+    "color": "green",
+    "google_maps_url": "https://maps.google.com/?q=42.4150,-8.6380",
+    "resena_propia": true
+  },
+  {
+    "nombre": "Ruínas de Santo Domingo (Museo de Pontevedra)",
+    "tipo": "Imprescindible",
+    "descripcion": "Restos del convento dominico del siglo XIV. Uno de los monumentos más románticos e históricos de la ciudad.",
+    "coordenadas": [42.4305, -8.6455],
+    "nota": "🏛️ Sede del Museo de Pontevedra",
+    "color": "orange",
+    "google_maps_url": "https://maps.google.com/?q=42.4305,-8.6455",
+    "resena_propia": true
+  },
+  {
+    "nombre": "N-550 Acceso Sur (Avenida de Vigo)",
+    "tipo": "Evitar",
+    "descripcion": "Entrada de tráfico rodado denso en el límite exterior del anillo peatonal. No recomendada para pasear relajadamente.",
+    "coordenadas": [42.4230, -8.6480],
+    "nota": "🚗 Zona de tráfico denso periurbano",
+    "color": "red",
+    "google_maps_url": "https://maps.google.com/?q=42.4230,-8.6480",
+    "resena_propia": false
+  }
+]
