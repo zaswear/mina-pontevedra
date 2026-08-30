@@ -533,7 +533,12 @@ function renderDicionario(filtro = '') {
   });
 
   if (!filtrados.length) {
-    grid.innerHTML = `<div class="col-span-2 text-center py-8 text-slate-400 text-sm">No se encontraron términos para "${filtro}"</div>`;
+    // Mismo caso que en mijnutrecht: `filtro` es texto del usuario y no puede
+    // interpolarse en innerHTML. Sin marcado que generar, textContent basta.
+    const vacio = document.createElement('div');
+    vacio.className = 'col-span-2 text-center py-8 text-slate-400 text-sm';
+    vacio.textContent = `No se encontraron términos para "${filtro}"`;
+    grid.replaceChildren(vacio);
     return;
   }
 
