@@ -8,6 +8,26 @@
 - **Hosting**: GitHub Pages compatible (rutas relativas).
 - **Licencia**: Dual CC0 1.0 Universal + MIT.
 
+## 🎨 Estilos: Tailwind generado, no por CDN
+
+Las páginas usan clases de Tailwind v3, pero ya **no se carga el Play CDN**
+(`cdn.tailwindcss.com`): compilaba los estilos en el navegador en cada visita, el
+propio Tailwind lo desaconseja en producción y, al ser de otro origen, el free tour
+se abría **sin estilos sin conexión**. En su lugar va `css/tailwind.css`, generado una
+vez y commiteado, que el service worker del tour precachea.
+
+**Si añades o cambias clases de Tailwind**, regenera y commitea la hoja (escanea los
+HTML y los JS, porque varias clases se ponen desde JavaScript):
+
+```bash
+printf '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n' > /tmp/tw-in.css
+printf "module.exports={content:['./**/*.html','./**/*.js','!./**/sw.js']}" > /tmp/tw.config.js
+npx -y tailwindcss@3.4.17 -c /tmp/tw.config.js -i /tmp/tw-in.css -o css/tailwind.css --minify
+```
+
+Se enlaza al final del `<head>`, que es donde el CDN inyectaba su `<style>`: así el
+orden de la cascada con `main.css` y `free-tour.css` no cambia.
+
 ---
 
 ## 📱 App instalable y modo offline (`/free-tour/`)

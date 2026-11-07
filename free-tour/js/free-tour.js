@@ -176,7 +176,7 @@ function avanzarSiguienteParada() {
   }
 
   renderParadaActual();
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+  window.scrollTo({ top: 0, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
 }
 
 function renderFinalRuta() {

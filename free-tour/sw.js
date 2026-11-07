@@ -18,13 +18,15 @@
    Al añadir archivos a la sección, mételos en ESQUELETO y sube CACHE_NAME.
    ═══════════════════════════════════════════════════════════════════════════ */
 
-const CACHE_NAME = 'ft-pontevedra-v2';
+const CACHE_NAME = 'ft-pontevedra-v3';
 
 const ESQUELETO = [
   './',
   './index.html',
   './ruta.html',
   './css/free-tour.css',
+  // Tailwind generado: con el Play CDN la ruta se abría sin estilos offline.
+  '../css/tailwind.css',
   './js/free-tour.js',
   './js/speech.js',
   './js/geolocation.js',
